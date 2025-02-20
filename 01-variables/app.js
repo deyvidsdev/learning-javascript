@@ -1,10 +1,16 @@
+/*
+    var: Es una variable global
+    let: Es una variable local o en bloque
+    const: Es una constante
+
+*/
+
 var hola = "Hola mundo"
 let hello = "Hello world"
 
 // console.log(window)
 
 /*
-    Var: Es una variable global
     Ejemplo de bloque con var
 
 */
@@ -22,7 +28,6 @@ console.log("Variable música antes del bloque", musica)
 console.log("Variable música despues del bloque", musica)
 
 /*
-    Let: Es una variable local o en bloque
     Ejemplo de bloque con let
 
 */
